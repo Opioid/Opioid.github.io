@@ -1,0 +1,9 @@
+body {
+    background-color: #272822;
+    color: #e6e5e2;
+}
+
+.floated_img {
+    float: left;
+    margin: 4px;
+}
