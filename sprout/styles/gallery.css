@@ -1,9 +1,18 @@
 body {
     background-color: #272822;
     color: #e6e5e2;
+    font-size: 20px
 }
 
-.floated_img {
-    float: left;
+a {
+    color: #e6e5e2;
+}
+
+.thumbnail {
     margin: 4px;
+    display: inline-block;
+}
+
+.reference {
+    text-align: center
 }
