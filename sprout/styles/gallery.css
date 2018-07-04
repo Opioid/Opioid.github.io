@@ -1,18 +1,19 @@
 body {
     background-color: #272822;
     color: #e6e5e2;
-    font-size: 20px
+    font-size: 20px;
 }
 
 a {
     color: #e6e5e2;
 }
 
-.thumbnail {
-    margin: 4px;
-    display: inline-block;
+.content {
+    margin: 0 auto;
+    display: table;
 }
 
-.reference {
-    text-align: center
+.thumbnail {
+    text-align: center;
 }
+
