@@ -2,6 +2,7 @@ body {
     background-color: #272822;
     color: #e6e5e2;
     font-size: 20px;
+    text-align: center;
 }
 
 a {
@@ -14,7 +15,6 @@ a {
 }
 
 .thumbnail {
-    padding: 12px;
-    text-align: center;
+    padding: 10px;
 }
 
