@@ -14,7 +14,12 @@ a {
     display: table;
 }
 
+.introduction {
+    padding: 0 0 32px 0;
+    font-size: larger;
+}
+
 .thumbnail {
-    padding: 6px;
+    padding: 0 0 48px 0;
 }
 
