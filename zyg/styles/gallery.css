@@ -1,0 +1,25 @@
+body {
+    background-color: #272822;
+    color: #e6e5e2;
+    font-size: large;
+    text-align: center;
+}
+
+a {
+    color: #e6e5e2;
+}
+
+.content {
+    margin: 0 auto;
+    display: table;
+}
+
+.introduction {
+    padding: 0 0 32px 0;
+    font-size: larger;
+}
+
+.thumbnail {
+    padding: 0 0 48px 0;
+}
+
